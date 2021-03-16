@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
-#Acerca
+# Acerca
 Esta app hace uso de la API de Unsplash, posee una barra de busqueda y muestra las imagenes de manera ordenada.
 
 ## Available Scripts
